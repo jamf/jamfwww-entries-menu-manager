@@ -39,4 +39,4 @@ Click and drag to rearrange Channels/Titles or to nest Channels, and click **Sav
 
 ## Contributing
 
-PRs are welcome to add new features or fix bugs. Approvals are required by the @jamf/dotcom-maintainer team. You can also open an Issue for features that warrant further discussion.
+PRs are welcome to add new features or fix bugs. Approvals are required by the @jamf/dotcom team. You can also open an Issue for features that warrant further discussion.
